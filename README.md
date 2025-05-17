@@ -18,8 +18,6 @@ Hey there! I'm Emad Sahebi 👨‍🚀
 
 ---
 
-## 🛠️ Tech Stack:
-
 ## 🛠️ Tech Stack I Work With:
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
