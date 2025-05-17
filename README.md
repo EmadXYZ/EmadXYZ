@@ -20,21 +20,22 @@ Hey there! I'm Emad Sahebi 👨‍🚀
 
 ## 🛠️ Tech Stack:
 
+## 🛠️ Tech Stack I Work With:
+
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-FF4154?style=for-the-badge)
-![Hardhat](https://img.shields.io/badge/Hardhat-20232a?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![EVM](https://img.shields.io/badge/EVM-FF9900?style=for-the-badge)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-6E40C9?style=for-the-badge)
+![Chainlink VRF](https://img.shields.io/badge/Chainlink%20VRF-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emadxyz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emadxyz)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://emadxyz.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emad-sahebi)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EmadSahebiXYZ)
 
 ---
 
@@ -58,7 +59,7 @@ Hey there! I'm Emad Sahebi 👨‍🚀
 
 ## 💬 Quote I Love:
 
-> "A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It's a looking glass into a mathematical wonderland." — *Ivan Sutherland*
+> "The computer was born to solve problems that did not exist before." — *Bill Gates*
 
 ---
 
