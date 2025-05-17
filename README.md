@@ -1,53 +1,65 @@
-## 👋 About Me
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=250&section=header&text=Hi,%20I'm%20Emad%20Sahebi%20👋&fontSize=40&fontColor=ffffff)
 
-Hi there, I’m **Emad Sahebi** — a passionate developer, self-learner, and tech explorer 🚀
-
-I'm on a mission to dive deeper into the world of Web3, smart contracts, and decentralized technologies. Whether it’s building with Solidity or experimenting with Foundry, I love turning ideas into clean, secure, and functional code.
-
-When I’m not coding, I’m probably studying blockchain architecture or exploring the future of decentralized apps 💡
-
-Let's connect and build something impactful together.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFC2&center=true&vCenter=true&width=435&lines=Web3+%7C+Smart+Contract+Developer;Passionate+About+Solidity+%26+Security;Always+Building+%F0%9F%9A%80"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me:
 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-%2320232a.svg?style=for-the-badge&logo=foundry&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-%23F2C811.svg?style=for-the-badge&logo=ethereum&logoColor=black)
+Hey there! I'm Emad Sahebi 👨‍🚀
 
----
+- Passionate about building dApps and secure smart contracts.
+- Always learning, writing, and developing something new.
+- Currently focused on Solidity, Foundry, and Web3 security.
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-USERNAME)
+> "I'm here to shape the future with code." 🚀
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack:
 
-![Emad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmadXYZ&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmadXYZ&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=EmadXYZ&theme=radical&no-bg=true)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmadXYZ&theme=radical)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-FF4154?style=for-the-badge)
+![Hardhat](https://img.shields.io/badge/Hardhat-20232a?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
-## 💡 Quote of the Day
+## 🌐 Connect with Me:
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emadxyz)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emadxyz)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://emadxyz.dev)
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmadXYZ&show_icons=true&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=EmadXYZ&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmadXYZ&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EmadXYZ&theme=algolia&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 💬 Quote I Love:
+
+> "A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It's a looking glass into a mathematical wonderland." — *Ivan Sutherland*
+
+---
+
+### ☕ Always building, always learning. Let’s connect and build the future, one smart contract at a time!
